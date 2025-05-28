@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I am a motivated and detail-oriented software deve
 
 - 📧 Email: **kavinayasri654@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/kavinayasri-m](https://www.linkedin.com/in/kavinayasri-m)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1CY5EYToZqte5oqzjYuKdUWq7Aa8DwPRH/view?usp=drive_link)
 
 ---
 
