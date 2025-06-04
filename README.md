@@ -40,19 +40,6 @@ A MySQL-based sample database project simulating a college course registration s
 - **Skills Demonstrated:** Relational database design, SQL joins, grouping, filtering, and referential integrity  
 - [🔗 GitHub Repo]**https://github.com/kavinaya-5/College-Course-Registration-MySQL.git**
   
-### ⏰ Job Scheduler (Java)
-A Java-based backend console application that simulates time-based task scheduling similar to cron jobs.
-
-- **Supports:** Hourly, Daily, and Weekly scheduling of jobs
-- **Core Logic:** Uses java.time API to continuously check and execute scheduled jobs
-- **Structure:** Clean OOP design with separate classes for scheduling logic, job definition, and program entry point
-- **How to Use:**
-i. Compile and run Main.java
-ii. Choose schedule type and input desired time
-iii. Program runs in background and prints "Hello World" at scheduled times
-- **Skills Demonstrated:** Java programming, time-based logic, OOP, modular design, GitHub project structuring
-[🔗 GitHub Repo]**https://github.com/kavinaya-5/JobScheduler.git**
-
 ---
 
 ## 📊 Coding Profiles
