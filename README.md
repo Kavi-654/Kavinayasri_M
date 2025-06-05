@@ -39,6 +39,20 @@ A MySQL-based sample database project simulating a college course registration s
   3. Practice and test SQL queries from `queries.sql`  
 - **Skills Demonstrated:** Relational database design, SQL joins, grouping, filtering, and referential integrity  
 - [🔗 GitHub Repo]**https://github.com/kavinaya-5/College-Course-Registration-MySQL.git**
+
+  ### 🗓️ Job Scheduling System (Java - Console)
+A console-based Java project that lets users add jobs with start and end times and schedule the maximum number of non-overlapping jobs using a greedy algorithm.
+
+-**Features:**  
+- Add and view jobs  
+- Schedule jobs optimally (Activity Selection Problem)  
+- Simple console-based menu for user interaction  
+-**Skills Demonstrated:** Java OOP, ArrayList, Comparator, Scanner, Greedy algorithm, Problem solving
+-**How to Use:**  
+  1. Compile all `.java` files in the same folder  
+  2.  Run `Main` class to start the program  
+  3. Use menu options to add/view/schedule jobs  
+[🔗 GitHub Repo](https://github.com/kavinaya-5/job-scheduling-system)
   
 ---
 
