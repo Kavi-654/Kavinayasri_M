@@ -39,8 +39,8 @@ A MySQL-based sample database project simulating a college course registration s
   3. Practice and test SQL queries from `queries.sql`  
 - **Skills Demonstrated:** Relational database design, SQL joins, grouping, filtering, and referential integrity  
 - [🔗 GitHub Repo]**https://github.com/kavinaya-5/College-Course-Registration-MySQL.git**
-
-  ### 🗓️ Job Scheduling System (Java - Console)
+  
+### 🗓️ Job Scheduling System (Java - Console)
 A console-based Java project that lets users add jobs with start and end times and schedule the maximum number of non-overlapping jobs using a greedy algorithm.
 
 - **Features:**  
@@ -63,19 +63,10 @@ A console-based Java project that lets users add jobs with start and end times a
 
 ---
 
-# 📜 Prompt Engineering Certification
-
+# 📜 Certification
+- **prompt Engineering:**
 - **Platform:** Internshala
-- **Date:** June 2025  
-- **Topics Covered:**
-- Prompt design patterns (zero-shot, few-shot)
-- prompting ways
-- different AI models
-- Iterative refinement
-
 - **Certificate:** [View Certificate](https://trainings.internshala.com/s/v/3684689/d92e4db9)
-
-
 
 ---
 
