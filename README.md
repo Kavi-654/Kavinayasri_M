@@ -53,6 +53,23 @@ A console-based Java project that lets users add jobs with start and end times a
  2. Run `Main` class to start the program  
  3. Use menu options to add/view/schedule jobs  
 [🔗 GitHub Repo]**https://github.com/kavinaya-5/job-scheduling-system**
+
+📅 **Event Management Website (HTML)**  
+A simple, clean website built using basic HTML to showcase workshops on Java Development and Spring Boot.
+
+**Features:**  
+- Displays detailed info on Java and Spring Boot workshops  
+- Includes event schedules, gallery, and registration sections  
+- Focused on learning HTML structure and design fundamentals  
+**Technologies Used:** HTML  
+**How to Use:**  
+- Open the `index.html` file in any web browser to view the website  
+- Explore the structured content and workshop details  
+**Skills Demonstrated:**  
+Basic HTML tags, semantic structuring, and web page layout  
+
+[🔗 GitHub Repo](https://github.com/kavinaya-5/EventManagement_htmlProject)
+
   
 ---
 
