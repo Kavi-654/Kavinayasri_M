@@ -77,12 +77,12 @@ A basic HTML form project to collect detailed job application information, inclu
 -  Education details, technical & soft skills
 -  Resume upload and job role selection
 -  Declaration checkbox
-  **🛠️Technologies Used:**
+-  **🛠️Technologies Used:**
 - HTML
-**🚀How to Use:**
+- **🚀How to Use:**
 - Open `index.html` in any web browser
 - Fill in the form fields to simulate a job application
- **🧠Skills Demonstrated:**
+ - **🧠Skills Demonstrated:**
 - Form handling with various input types (`text`, `date`, `radio`, `email`, `file`, `select`)
 - Semantic HTML structure and clean layout
 [🔗 Github Repo]**https://github.com/kavinaya-5/JobregistrationForm_HTML**
