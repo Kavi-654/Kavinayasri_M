@@ -32,23 +32,23 @@ Welcome to my GitHub profile! I am a motivated and detail-oriented software deve
 A MySQL-based sample database project simulating a college course registration system.
 
 - **Schema Includes:** Departments, Students, Instructors, Courses, Enrollments  
-- **Features:** Proper use of foreign keys and constraints, sample data for testing, and useful SQL queries to retrieve information  
-- **How to Use:**  
+- **🔍Features:** Proper use of foreign keys and constraints, sample data for testing, and useful SQL queries to retrieve information  
+- **🚀How to Use:**  
   1. Import `schema.sql` into your MySQL database  
   2. Run `sample_data.sql` to insert mock data  
   3. Practice and test SQL queries from `queries.sql`  
-- **Skills Demonstrated:** Relational database design, SQL joins, grouping, filtering, and referential integrity  
+- **🧠Skills Demonstrated:** Relational database design, SQL joins, grouping, filtering, and referential integrity  
  [🔗 GitHub Repo]**https://github.com/kavinaya-5/College-Course-Registration-MySQL.git**
   
 ### 🗓️ Job Scheduling System (Java - Console)
 A console-based Java project that lets users add jobs with start and end times and schedule the maximum number of non-overlapping jobs using a greedy algorithm.
 
-- **Features:**  
+- **🔍Features:**  
 - Add and view jobs  
 - Schedule jobs optimally (Activity Selection Problem)  
 - Simple console-based menu for user interaction  
-- **Skills Demonstrated:** Java OOP, ArrayList, Comparator, Scanner, Greedy algorithm, Problem solving
-- **How to Use:**  
+- **🧠Skills Demonstrated:** Java OOP, ArrayList, Comparator, Scanner, Greedy algorithm, Problem solving
+- **🚀How to Use:**  
  1. Compile all `.java` files in the same folder  
  2. Run `Main` class to start the program  
  3. Use menu options to add/view/schedule jobs  
@@ -57,17 +57,35 @@ A console-based Java project that lets users add jobs with start and end times a
 ### 📅 Event Management Website (HTML)
 A simple, clean website built using basic HTML to showcase workshops on Java Development and Spring Boot.
 
-**Features:**  
+**🔍Features:**  
 - Displays detailed info on Java and Spring Boot workshops  
 - Includes event schedules, gallery, and registration sections  
 - Focused on learning HTML structure and design fundamentals  
-- **Technologies Used:** HTML  
-- **How to Use:**  
+- **🛠️Technologies Used:** HTML  
+- **🚀How to Use:**  
 - Open the `index.html` file in any web browser to view the website  
 - Explore the structured content and workshop details  
-**Skills Demonstrated:**  
+**🧠Skills Demonstrated:**  
 - Basic HTML tags, semantic structuring, and web page layout  
 [🔗 GitHub Repo]**https://github.com/kavinaya-5/EventManagement_htmlProject**
+
+### 📝 Job Registration Form (HTML)
+A basic HTML form project to collect detailed job application information, including personal, academic, and job preference details.
+
+ **🔍Features:**
+-  Full name, DOB, gender, email, phone
+-  Education details, technical & soft skills
+-  Resume upload and job role selection
+-  Declaration checkbox
+  **🛠️Technologies Used:**
+- HTML
+**🚀How to Use:**
+- Open `index.html` in any web browser
+- Fill in the form fields to simulate a job application
+ **🧠Skills Demonstrated:**
+- Form handling with various input types (`text`, `date`, `radio`, `email`, `file`, `select`)
+- Semantic HTML structure and clean layout
+[🔗 Github Repo]**https://github.com/kavinaya-5/JobregistrationForm_HTML**
 
 
   
