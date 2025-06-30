@@ -93,8 +93,8 @@ A basic HTML form project to collect detailed job application information, inclu
 
 ## 📊 Coding Profiles
 
-- 🔗 [LeetCode – 300+ Problems Solved]**https://leetcode.com/u/kavinayasri/**
-- 🔗 [GeeksforGeeks – 150+ Problems Solved]**https://www.geeksforgeeks.org/user/kavimoh24ik/**
+- 🔗 [LeetCode – 300+ Problems Solved]
+- 🔗 [GeeksforGeeks – 150+ Problems Solved]
 - 🔗 [HackerRank]**https://www.hackerrank.com/profile/kavinayasri654**
 
 ---
