@@ -16,8 +16,8 @@ I don’t just write code; I architect systems. My approach is grounded in the b
 | :--- | :--- |
 | **Languages** | Java (Core & Advanced), Kotlin, SQL, JavaScript |
 | **Backend Architecture** | Servlets, JDBC, RESTful APIs, Layered Architecture |
-| **Database Design** | MySQL, PostgreSQL (Relational Modeling), MongoDB |
-| **Principles & Patterns** | SOLID, MVC, DAO Pattern, Factory Pattern |
+| **Database Design** | MySQL, PostgreSQL  |
+| **Principles & Patterns** | SOLID, MVC, DAO Pattern,Creational,Structural |
 | **Dev Tools** | Git/GitHub, Postman, IntelliJ, Android Studio |
 
 ---
@@ -50,7 +50,7 @@ I don’t just write code; I architect systems. My approach is grounded in the b
 ## 📈 The Next Evolution
 I am currently deep-diving into:
 * **Microservices:** Transitioning from Monolithic to Distributed Systems.
-* **Design Patterns:** Implementing **Observer** and **Strategy** patterns in real-time React/Node applications.
+* **Design Patterns:** Implementing **Observer** and **Strategy** patterns .
 * **System Scalability:** Exploring Load Balancing and Caching (Redis) strategies.
 
 ---
