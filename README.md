@@ -1,117 +1,151 @@
-# 👩‍💻 Kavinayasri M
+# 🚀 Kavinayasri M | Building Systems That  is Scaleable
 
-Aspiring Software Developer | Java & MySQL Enthusiast | Problem Solver
-
----
-
-Welcome to my GitHub profile! I am a motivated and detail-oriented software developer actively preparing for full-time opportunities in the IT industry. My interests lie in backend development,software engineer,software developer, databases, and algorithmic problem solving.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Problem+Solver;700%2B+LeetCode+Problems+Solved;Java+%7C+APIs+%7C+System+Design;Building+Real-World+Impactful+Systems" />
+</p>
 
 ---
 
-## 💡 About Me
+## 🧠 Who Am I?
 
-- 🎯 Currently preparing for software engineering roles with a target of 5+ LPA
-- 💻 Solved **300+ problems on LeetCode** and **150+ on GeeksforGeeks**
-- 📚 Strengthening my expertise in **Java**, **SQL**, and **Data Structures & Algorithms**
-- 🌱 Learning Datastructures and Algorithms
+I don’t just write code — I **build systems that solve real problems**.
 
----
-
-## 🧠 Skills & Technologies
-
-- **Languages:** Java, C
-- **Databases:** MySQL
-- **Core Concepts:** OOP, SQL Joins, Constraints, Query Optimization
-- **Tools & IDEs:** IntelliJ IDEA, MySQL Workbench, Android Studio, Git, GitHub
-- **Competitive Programming:** Arrays, Strings, Sliding Window, Two Pointers, Sorting, Recursion, Hashing
-
----
-## 🛠️ Projects
-
-### 📘 College Course Registration System (MySQL)
-A MySQL-based sample database project simulating a college course registration system.
-
-- **Schema Includes:** Departments, Students, Instructors, Courses, Enrollments  
-- **🔍Features:** Proper use of foreign keys and constraints, sample data for testing, and useful SQL queries to retrieve information  
-- **🚀How to Use:**  
-  1. Import `schema.sql` into your MySQL database  
-  2. Run `sample_data.sql` to insert mock data  
-  3. Practice and test SQL queries from `queries.sql`  
-- **🧠Skills Demonstrated:** Relational database design, SQL joins, grouping, filtering, and referential integrity  
- [🔗 GitHub Repo]**https://github.com/kavinaya-5/College-Course-Registration-MySQL.git**
-  
-### 🗓️ Job Scheduling System (Java - Console)
-A console-based Java project that lets users add jobs with start and end times and schedule the maximum number of non-overlapping jobs using a greedy algorithm.
-
-- **🔍Features:**  
-- Add and view jobs  
-- Schedule jobs optimally (Activity Selection Problem)  
-- Simple console-based menu for user interaction  
-- **🧠Skills Demonstrated:** Java OOP, ArrayList, Comparator, Scanner, Greedy algorithm, Problem solving
-- **🚀How to Use:**  
- 1. Compile all `.java` files in the same folder  
- 2. Run `Main` class to start the program  
- 3. Use menu options to add/view/schedule jobs  
-[🔗 GitHub Repo]**https://github.com/kavinaya-5/job-scheduling-system**
-
-### 📅 Event Management Website (HTML)
-A simple, clean website built using basic HTML to showcase workshops on Java Development and Spring Boot.
-
-**🔍Features:**  
-- Displays detailed info on Java and Spring Boot workshops  
-- Includes event schedules, gallery, and registration sections  
-- Focused on learning HTML structure and design fundamentals  
-- **🛠️Technologies Used:** HTML  
-- **🚀How to Use:**  
-- Open the `index.html` file in any web browser to view the website  
-- Explore the structured content and workshop details  
-**🧠Skills Demonstrated:**  
-- Basic HTML tags, semantic structuring, and web page layout  
-[🔗 GitHub Repo]**https://github.com/kavinaya-5/EventManagement_htmlProject**
-
-### 📝 Job Registration Form (HTML)
-A basic HTML form project to collect detailed job application information, including personal, academic, and job preference details.
-
- **🔍Features:**
--  Full name, DOB, gender, email, phone
--  Education details, technical & soft skills
--  Resume upload and job role selection
--  Declaration checkbox
--  **🛠️Technologies Used:**
-- HTML
-- **🚀How to Use:**
-- Open `index.html` in any web browser
-- Fill in the form fields to simulate a job application
- - **🧠Skills Demonstrated:**
-- Form handling with various input types (`text`, `date`, `radio`, `email`, `file`, `select`)
-- Semantic HTML structure and clean layout
-[🔗 Github Repo]**https://github.com/kavinaya-5/JobregistrationForm_HTML**
-
-
-  
----
-
-## 📊 Coding Profiles
-
-- 🔗 [LeetCode – 300+ Problems Solved]
-- 🔗 [GeeksforGeeks – 150+ Problems Solved]
-- 🔗 [HackerRank]**https://www.hackerrank.com/profile/kavinayasri654**
+* 🎓 Trained at **Zoho Schools for Graduate Studies**
+* 🧩 Solved **700+ DSA problems** (consistency + discipline)
+* ⚙️ Backend-focused developer with **real project experience**
+* 🚀 Strong believer in **clean architecture & scalable systems**
 
 ---
 
-# 📜 Certification
-- **prompt Engineering:**
-- **Platform:** Internshala
-- **Certificate:** [View Certificate](https://trainings.internshala.com/s/v/3684689/d92e4db9)
+## ⚡ What Makes Me Different?
+
+✔️ I think in **systems, not just code**
+✔️ I focus on **real-world impact, not just theory**
+✔️ I use **AI tools to accelerate development**
+✔️ I can **break complex problems into simple solutions**
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Tech Stack
 
-- 📧 Email: **kavinayasri654@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/kavinayasri-m](https://www.linkedin.com/in/kavinayasri-m)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1CY5EYToZqte5oqzjYuKdUWq7Aa8DwPRH/view?usp=drive_link)
+### 💻 Languages
+
+`Java` `JavaScript` `SQL` `Kotlin`
+
+### ⚙️ Backend
+
+`JDBC` `Servlets` `REST APIs` `Layered Architecture`
+
+### 🗄️ Databases
+
+`MySQL` `PostgreSQL` 
+
+### 🧰 Tools
+
+`Git` `GitHub` `Postman` `VS Code` `IntelliJ` `Android Studio`
+
+### FrameWorks
+
+`Hibernate`
 
 ---
 
-_I'm currently seeking full time opportunities in software development or backend development . Thank you for visiting my profile!_
+## 🚀 Featured Projects
+
+### 🔥 Service Hub — Scalable Backend System
+
+📌 [https://github.com/Kavi-654/ServiceHub.git](https://github.com/Kavi-654/ServiceHub.git)
+
+💡 A real-world service request platform with **role-based workflows**
+
+✨ Highlights:
+
+* 🧱 Designed **Layered Architecture (DAO → Service → Servlet)**
+* 🔐 Implemented **secure authentication system**
+* 🔄 Built **transaction workflows & rating system**
+* ⚡ Optimized database interactions using JDBC
+
+👉 This project shows my ability to build **production-like backend systems**
+
+---
+
+### ⚡ Task Manager — Interactive Web App
+
+📌 [https://github.com/Kavi-654/To-Do-List-HTML-JS-.git](https://github.com/Kavi-654/To-Do-List-HTML-JS-.git)
+
+💡 A clean, responsive productivity tool
+
+✨ Highlights:
+
+* ⚡ Real-time DOM updates
+* 🎯 Smooth UX with dynamic task operations
+* 📱 Responsive design
+
+👉 Focused on **user experience + frontend logic clarity**
+
+---
+
+## 📊 Proof of Work
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavi-654&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi-654&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kavinayasri?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+## 🧩 Problem Solving Mindset
+
+* 🔥 700+ problems solved on LeetCode
+* 🧠 Strong in:
+
+  * Arrays
+  * Sliding Window
+  * Two Pointers
+  * Greedy
+  * Advanced Data Structures
+* ⚡ Focus on **optimization + clean logic**
+
+---
+
+## 💼 Experience
+
+### 🏢 Zoho Schools for Graduate Studies — Incubation Trainee
+
+📅 July 2025 – Jan 2026
+
+* Built backend systems using Java + JDBC
+* Worked with real-world development practices
+* Learned system design, debugging, and optimization
+
+---
+
+## 🚀 Currently Leveling Up
+
+* 🌐 Full-stack development (React + Node)
+* 🤖 AI-assisted development workflows
+* 📈 Building scalable & high-performance systems
+
+---
+
+## 📫 Let’s Connect
+
+📧 Email: [kavinayasri59@gmail.com](mailto:kavinayasri59@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/kavinayasri-m](https://www.linkedin.com/in/kavinayasri-m)
+💻 GitHub: [https://github.com/Kavi-654](https://github.com/Kavi-654)
+🧩 LeetCode: [https://leetcode.com/u/kavinayasri/](https://leetcode.com/u/kavinayasri/)
+
+---
+
+## 💡 Final Note
+
+> I don’t just want to be a developer.
+> I want to be someone who **builds products that people actually use.**
+
+---
+
+⭐ If you like what I build, give a star — or better, let’s build something together 🚀
