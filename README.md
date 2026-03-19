@@ -1,151 +1,64 @@
-# 🚀 Kavinayasri M | Building Systems That  is Scaleable
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Problem+Solver;700%2B+LeetCode+Problems+Solved;Java+%7C+APIs+%7C+System+Design;Building+Real-World+Impactful+Systems" />
-</p>
+# 🚀 Kavinayasri M | Backend Engineer & Systems Thinker
+### "Building Scalable Solutions through Clean Code and Pattern-Driven Design"
 
 ---
 
-## 🧠 Who Am I?
-
-I don’t just write code — I **build systems that solve real problems**.
-
-* 🎓 Trained at **Zoho Schools for Graduate Studies**
-* 🧩 Solved **700+ DSA problems** (consistency + discipline)
-* ⚙️ Backend-focused developer with **real project experience**
-* 🚀 Strong believer in **clean architecture & scalable systems**
+## 🧠 Professional Philosophy
+I don’t just write code; I architect systems. My approach is grounded in the belief that **software must be maintainable, extensible, and resilient.** * **🧩 Logic-First:** 700+ DSA problems solved, focusing on optimal time/space complexity ($O(n)$ or $O(\log n)$).
+* **⚙️ Pattern-Driven:** I leverage **Design Patterns** (Singleton, Factory, DAO) to reduce redundancy.
+* **🛠️ Principle-Oriented:** I strictly adhere to **SOLID** and **DRY** principles to ensure code longevity.
 
 ---
 
-## ⚡ What Makes Me Different?
+## 🛠️ Technical Ecosystem
 
-✔️ I think in **systems, not just code**
-✔️ I focus on **real-world impact, not just theory**
-✔️ I use **AI tools to accelerate development**
-✔️ I can **break complex problems into simple solutions**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-`Java` `JavaScript` `SQL` `Kotlin`
-
-### ⚙️ Backend
-
-`JDBC` `Servlets` `REST APIs` `Layered Architecture`
-
-### 🗄️ Databases
-
-`MySQL` `PostgreSQL` 
-
-### 🧰 Tools
-
-`Git` `GitHub` `Postman` `VS Code` `IntelliJ` `Android Studio`
-
-### FrameWorks
-
-`Hibernate`
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java (Core & Advanced), Kotlin, SQL, JavaScript |
+| **Backend Architecture** | Servlets, JDBC, RESTful APIs, Layered Architecture |
+| **Database Design** | MySQL, PostgreSQL (Relational Modeling), MongoDB |
+| **Principles & Patterns** | SOLID, MVC, DAO Pattern, Factory Pattern |
+| **Dev Tools** | Git/GitHub, Postman, IntelliJ, Android Studio |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-### 🔥 Service Hub — Scalable Backend System
+### 🔥 [Service Hub — Enterprise-Grade Service Platform](https://github.com/Kavi-654/ServiceHub.git)
+*A scalable backend system designed with strict separation of concerns.*
 
-📌 [https://github.com/Kavi-654/ServiceHub.git](https://github.com/Kavi-654/ServiceHub.git)
+* **Architecture:** Implemented a **4-Layer Architecture** (Controller → Service → DAO → Database) to ensure the **Single Responsibility Principle**.
+* **Design Pattern:** Utilized the **Data Access Object (DAO) Pattern** to decouple persistence logic from the business layer, making the system database-agnostic.
+* **Security:** Engineered a Role-Based Access Control (RBAC) system for secure authentication.
+* **Performance:** Optimized database throughput by managing connection lifecycles and utilizing prepared statements in JDBC to prevent SQL injection.
 
-💡 A real-world service request platform with **role-based workflows**
+### ⚡ [Task Manager — Modular Frontend Engine](https://github.com/Kavi-654/To-Do-List-HTML-JS-.git)
+*A productivity tool focused on state management and UI responsiveness.*
 
-✨ Highlights:
-
-* 🧱 Designed **Layered Architecture (DAO → Service → Servlet)**
-* 🔐 Implemented **secure authentication system**
-* 🔄 Built **transaction workflows & rating system**
-* ⚡ Optimized database interactions using JDBC
-
-👉 This project shows my ability to build **production-like backend systems**
-
----
-
-### ⚡ Task Manager — Interactive Web App
-
-📌 [https://github.com/Kavi-654/To-Do-List-HTML-JS-.git](https://github.com/Kavi-654/To-Do-List-HTML-JS-.git)
-
-💡 A clean, responsive productivity tool
-
-✨ Highlights:
-
-* ⚡ Real-time DOM updates
-* 🎯 Smooth UX with dynamic task operations
-* 📱 Responsive design
-
-👉 Focused on **user experience + frontend logic clarity**
+* **Logic:** Developed a dynamic task engine using **Modular JavaScript**, ensuring the UI remains a "pure function" of the underlying data state.
+* **UX/UI:** Focused on the **Interface Segregation Principle**, keeping user interactions intuitive and DOM updates efficient.
 
 ---
 
-## 📊 Proof of Work
+## 📊 Engineering Excellence (Proof of Work)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavi-654&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi-654&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kavinayasri?theme=dark&font=Nunito&ext=heatmap" />
-</p>
+* **Algorithmic Mastery:** 700+ solved problems on LeetCode. I specialize in **Greedy Algorithms** and **Sliding Window** techniques.
+* **The Zoho Incubation (July 2025 – Jan 2026):** Transitioned from a student to an engineer. Focused on **System Design**, debugging production-level bottlenecks, and professional SDLC practices.
 
 ---
 
-## 🧩 Problem Solving Mindset
-
-* 🔥 700+ problems solved on LeetCode
-* 🧠 Strong in:
-
-  * Arrays
-  * Sliding Window
-  * Two Pointers
-  * Greedy
-  * Advanced Data Structures
-* ⚡ Focus on **optimization + clean logic**
+## 📈 The Next Evolution
+I am currently deep-diving into:
+* **Microservices:** Transitioning from Monolithic to Distributed Systems.
+* **Design Patterns:** Implementing **Observer** and **Strategy** patterns in real-time React/Node applications.
+* **System Scalability:** Exploring Load Balancing and Caching (Redis) strategies.
 
 ---
 
-## 💼 Experience
-
-### 🏢 Zoho Schools for Graduate Studies — Incubation Trainee
-
-📅 July 2025 – Jan 2026
-
-* Built backend systems using Java + JDBC
-* Worked with real-world development practices
-* Learned system design, debugging, and optimization
+## 📫 Let’s Build Something Scalable
+* **Email:** [kavinayasri59@gmail.com](mailto:kavinayasri59@gmail.com)
+* **LinkedIn:** [in/kavinayasri-m](https://www.linkedin.com/in/kavinayasri-m)
+* **LeetCode:** [kavinayasri](https://leetcode.com/u/kavinayasri/)
 
 ---
-
-## 🚀 Currently Leveling Up
-
-* 🌐 Full-stack development (React + Node)
-* 🤖 AI-assisted development workflows
-* 📈 Building scalable & high-performance systems
-
----
-
-## 📫 Let’s Connect
-
-📧 Email: [kavinayasri59@gmail.com](mailto:kavinayasri59@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/kavinayasri-m](https://www.linkedin.com/in/kavinayasri-m)
-💻 GitHub: [https://github.com/Kavi-654](https://github.com/Kavi-654)
-🧩 LeetCode: [https://leetcode.com/u/kavinayasri/](https://leetcode.com/u/kavinayasri/)
-
----
-
-## 💡 Final Note
-
-> I don’t just want to be a developer.
-> I want to be someone who **builds products that people actually use.**
-
----
-
-⭐ If you like what I build, give a star — or better, let’s build something together 🚀
+*“I don’t just want to be a developer. I want to build products that people actually use.”* ⭐
